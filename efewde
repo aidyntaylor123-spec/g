@@ -728,7 +728,7 @@ local jumpPowerEnabled = false
 local currentJumpPower = 50
 
 local animation = Instance.new("Animation")
-animation.AnimationId = "rbxassetid://88680730602344"
+animation.AnimationId = "rbxassetid://80282754488934"
 
 task.spawn(function()
     while task.wait() do
