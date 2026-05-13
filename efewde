@@ -3146,7 +3146,7 @@ local function createAdminTag(player)
     textLabel.Size = UDim2.new(1, 0, 1, 0)
     textLabel.Position = UDim2.new(0, 0, 0, 0)
     textLabel.BackgroundTransparency = 1
-    textLabel.Text = "Made Luhjayy Family"
+    textLabel.Text = "Made jojo"
     textLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
     textLabel.TextScaled = true
     textLabel.Font = Enum.Font.SourceSansBold
